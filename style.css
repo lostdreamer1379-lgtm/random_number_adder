@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(32, 34, 34);
+}
+H1{
+    color: white;
+    text-align: center;
+}
+#generateBtn{
+    display: block;
+    width: fit-content;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px auto;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#generateBtn:hover {
+    background-color: #000000;
+}
+.resultLabel{
+    color: white;
+    font-size:40px;
+    display: block;
+    width:max-content;
+    margin: 4px auto;
+    padding:10px auto;
+    text-align: center;
+    border-radius: 5px;
+}
